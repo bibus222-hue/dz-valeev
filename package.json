@@ -1,0 +1,13 @@
+{
+  "name": "asteroid-game",
+  "version": "1.0.0",
+  "description": "Игра с астероидами на чистом JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx http-server -o",
+    "test": "echo \"Запустите index.html в браузере\""
+  },
+  "keywords": ["game", "asteroids", "javascript", "canvas"],
+  "author": "Your Name",
+  "license": "MIT"
+}
